@@ -1,4 +1,4 @@
-### Hi there ✋
+### Hi there 👋
 I'm a creative, always playing with new explosive technologies. 💣💣 
 
 My main interests are embedded systems, video games programming, DIY, and chatting with people❕
