@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a creative, always playing with new explosive technologies. 💣💣 
-
-My main interests are embedded systems, DIY, and chatting with people❕
+I'm a creative, always playing with new explosive technologies. 💣💣
+Always open for a chat about embedded systems, hardware design, IC fabrication, or DIY❕
+Bonus point for open source enthusiasts!
 
 <p align="center">
  ⛰   ᛫  🌱   ᛫  💬  ᛫  🚲  
