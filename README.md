@@ -7,7 +7,7 @@ Always open for a chat about embedded systems, hardware design, IC fabrication, 
 Bonus point for those who like low-level programming and reinvent the wheel for the 102910th time!
 
 <p align="center">
- ⛰   ᛫  🌱   ᛫  💬  ᛫  🚲  
+ ⛰🌱💬🚲  
 </p>
 
 📡 How to reach me: guillaume@glabs.ch
