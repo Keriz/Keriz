@@ -4,7 +4,7 @@ I'm a creative, always playing with new explosive 💣 technologies and eager to
 
 Always open for a chat about embedded systems, hardware design, IC fabrication, computer architectures, sound systems, DIY, graphics programming, or DIY :) 
 
-Bonus point for those who like low-level programming reinvent the wheel for the 102910th time!
+Bonus point for those who like low-level programming and reinvent the wheel for the 102910th time!
 
 <p align="center">
  ⛰   ᛫  🌱   ᛫  💬  ᛫  🚲  
