@@ -1,4 +1,4 @@
-### Hi there, bonjour, hallo 👋
+### Hi there, bonjour 👋
 
 I'm a creative, always playing with new explosive 💣 technologies and eager to get my hands on the new stuff. 
 
