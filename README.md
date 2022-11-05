@@ -1,6 +1,4 @@
-### Hi there, bonjour 👋
-
-I'm a creative, always playing with new explosive 💣 technologies and eager to get my hands on the new stuff. 
+### Hi there 👋
 
 Always open for a chat about embedded systems, hardware design, IC fabrication, computer architectures, sound systems,  graphics programming, or DIY :) 
 
